@@ -3,7 +3,7 @@
 * SC00024: Analysis of next generation sequencing data
   * [Sequencing quality control](https://github.com/BDC-training/HT26/wiki/NGS-I:-QC) 
   * [Mapping](https://github.com/BDC-training/HT26/wiki/NGS-II:-Mapping) 
-  * [A note on computer clusters](https://github.com/bBDC-training/HT26/wiki/NGS-III:-Computer-clusters) 
+  * [A note on computer clusters](https://github.com/BDC-training/HT26/wiki/NGS-III:-Computer-clusters) 
   * [Variant discovery in an Alpers syndrome patient](https://github.com/BDC-training/HT26/wiki/NGS-IV:-Exome) 
   * [RNAseq gene expression - paired](https://github.com/BDC-training/HT26/wiki/NGS-V:-RNAseq) 
   
