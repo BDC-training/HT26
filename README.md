@@ -6,7 +6,14 @@
   * [A note on computer clusters](https://github.com/BDC-training/HT26/wiki/NGS-III:-Computer-clusters) 
   * [Variant discovery in an Alpers syndrome patient](https://github.com/BDC-training/HT26/wiki/NGS-IV:-Exome) 
   * [RNAseq gene expression - paired](https://github.com/BDC-training/HT26/wiki/NGS-V:-RNAseq) 
-  
+
+* SC00035: R Programming
+  * [Introduction to R](https://github.com/BDC-training/HT26/wiki/R-I:-Introduction-to-R) 
+  * [Script Writing](https://github.com/BDC-training/HT26/wiki/R-II:-Script-Writing) 
+  * [Data Wrangling](https://github.com/BDC-training/HT26/wiki/R-III:-Data-wrangling) 
+  * [Statistics in R](https://github.com/BDC-training/HT26/wiki/R-IV:-Statistics-in-R) 
+  * [Visualization](https://github.com/BDC-training/HT26/wiki/R-V:-Visualization) 
+
 * BMA231: Next Generation Sequencing data analysis with clinical applications
   * Exploring SARS-CoV-2 with [Sequence Bioinformatics](https://github.com/BDC-training/HT26/wiki/BMA231-I:-Sequence-Bioinformatics)
   * [QC and Mapping](https://github.com/BDC-training/HT26/wiki/BMA231-II:-QC-and-mapping) of NGS data
@@ -23,3 +30,5 @@
   * [QC](https://github.com/BDC-training/HT26/wiki/BIO512-II:-QC)
   * [Mapping](https://github.com/BDC-training/HT26/wiki/BIO512-III:-Mapping)
   * [Counts](https://github.com/BDC-training/HT26/wiki/BIO512-IV:-Counts)
+
+  
